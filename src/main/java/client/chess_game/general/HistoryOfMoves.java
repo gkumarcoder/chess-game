@@ -156,6 +156,7 @@ public class HistoryOfMoves {
 		}
 	}
 	
+	
 	/**
 	 * Print out both players moves.
 	 */
