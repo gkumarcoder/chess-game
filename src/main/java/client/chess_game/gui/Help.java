@@ -8,7 +8,7 @@ import java.net.URL;
 import javax.swing.*;
 
 /**
- * Help window. Contents are loaded from a html file.
+ * Help window. Contents are loaded from a html file
  * 
  * @author Gaurav Kumar
  * @since 14/11/2009
