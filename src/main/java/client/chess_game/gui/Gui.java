@@ -16,7 +16,7 @@ import client.chess_game.tools.Index;
 /**
  * 
  * @author Gaurav Kumar
- * @since 14/11/2009
+ * @ 14/11/2009
  */
 public class Gui extends JPanel implements Runnable, MouseListener  {
 
@@ -32,6 +32,7 @@ public class Gui extends JPanel implements Runnable, MouseListener  {
 	private String selectedDest;
 	private String clickedSquare;
 	private int sizeX, sizeY;
+	
 	private Player player1, player2;
 	private PlayerAI playerAI, playerAI2;
 	private Move move;
