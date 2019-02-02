@@ -104,6 +104,7 @@ public class Help extends JFrame {
         	public void run() {
         		JFrame.setDefaultLookAndFeelDecorated(false);
         		new Help();
+			
             }
         });
     }
