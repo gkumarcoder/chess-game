@@ -6,7 +6,6 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.net.URL;
 import javax.swing.*;
-
 /**
  * Help window. Contents are loaded from a html file
  * 
