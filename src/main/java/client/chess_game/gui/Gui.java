@@ -20,6 +20,7 @@ import client.chess_game.tools.Index;
  */
 public class Gui extends JPanel implements Runnable, MouseListener  {
 
+	
 	private static final long serialVersionUID = -5154317893203520132L;
 	//global variables
 	private static Board board;
