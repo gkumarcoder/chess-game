@@ -24,6 +24,7 @@ public class Player {
 	 */
 	public Player(int side) {
 		setSide(side);
+		
 	}
 	
 	/**
