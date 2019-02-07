@@ -15,6 +15,7 @@ import javax.swing.*;
  */
 public class Help extends JFrame {
 	
+	
 	private static final long serialVersionUID = -7279256753979554192L;
 
 	/**
