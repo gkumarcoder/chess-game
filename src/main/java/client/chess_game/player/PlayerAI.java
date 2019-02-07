@@ -17,6 +17,7 @@ public class PlayerAI extends Player {
 	private Board board;
 	private Move move;
 	
+	
 	/**
 	 * Constructor
 	 * @param side
