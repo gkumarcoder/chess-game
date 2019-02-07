@@ -7,6 +7,7 @@ package client.chess_game.player;
 public class PlayerHuman extends Player {
 
 	public PlayerHuman(int side) {
+		
 		super(side);
 	}
 	
