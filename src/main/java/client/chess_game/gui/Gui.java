@@ -45,6 +45,7 @@ public class Gui extends JPanel implements Runnable, MouseListener  {
 	private String graphicsPath="./graphics/";
 	private String jarGraphicsPath="/graphics/";
 	//gui variables
+	
 	private JFrame f;
 	private JMenuBar menuBar;
 	private JMenu menu;
@@ -259,6 +260,7 @@ public class Gui extends JPanel implements Runnable, MouseListener  {
 		game = new Game();
 		createPlayers();
 	}
+	
 	
 	/**
 	 * Constructor.
