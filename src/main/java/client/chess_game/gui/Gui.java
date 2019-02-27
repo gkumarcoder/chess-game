@@ -32,6 +32,7 @@ public class Gui extends JPanel implements Runnable, MouseListener  {
 	private String selectedSrc;
 	private String selectedDest;
 	private String clickedSquare;
+	
 	private int sizeX, sizeY;
 	
 	private Player player1, player2;
