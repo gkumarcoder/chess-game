@@ -35,6 +35,7 @@ public class Gui extends JPanel implements Runnable, MouseListener  {
 	
 	private int sizeX, sizeY;
 	
+	
 	private Player player1, player2;
 	private PlayerAI playerAI, playerAI2;
 	private Move move;
